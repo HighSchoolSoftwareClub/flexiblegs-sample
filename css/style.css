@@ -13,31 +13,6 @@ body{
     color: #333;
     font-size: 14px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Mobil Bar */
 .slicknav_btn{position:relative;display:block;vertical-align:middle;float:right;padding:.438em .625em;line-height:1.125em;cursor:pointer;margin:5px 5px 6px;text-decoration:none;text-shadow:0 1px 1px rgba(255,255,255,0.75);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;background:#222222;}
 .slicknav_menu .slicknav_menutxt{display:block;line-height:1.188em;float:left;color:#FFF;font-weight:bold;text-shadow:0 1px 3px #000;}
@@ -62,9 +37,6 @@ body{
 .slicknav_nav .slicknav_txtnode{margin-left:15px;}
 .slicknav_menu {display:none;}
 @media screen and (max-width: 60em) {.js #menu {display:none;}.js .slicknav_menu {display:block;}}
-
-
-
 
 /* Büyük Cihazlar , Geniş Ekranlar */
 @media only screen and (max-width : 1200px) {
