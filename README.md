@@ -1,1 +1,2 @@
-"Bu Sample' direk bilgisayarza clone edip Flexible Grid System ile yapaca§nz projelere hemen baŸlayabilirsiniz." 
+Bu Sample'Ä± direk bilgisayarÄ±za clone edip Flexible Grid System ile yapacaÄŸÄ±nÄ±z projelere hemen baÅŸlaya
+bilirsiniz.
